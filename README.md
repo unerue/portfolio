@@ -22,6 +22,18 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ---
 
+## 건설안전재해 사고발생형태 예측 모형<br>Predicting Occupaional Accident Types
+
+`Random Forests`, `Interpretation`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110" target="_blank"><b>SCI Paper</b></a>
+
+---
+
 ## 게임 유저 이탈 예측<br>Churn Analysis of Users in Online Games
 
 `Data Analysis`, `Machine Learning`
@@ -44,18 +56,6 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 3. **Result of Experiment** -
 4. **Conclusion** - 
 5. [**Slide**]()
-
----
-
-## 건설사고형태 예측 모형 개발<br>Predicting Occupaional Accident Types
-
-`Random Forests`, `Interpretation`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110" target="_blank"><b>SCI Paper</b></a>
 
 ---
 
