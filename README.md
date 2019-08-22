@@ -16,7 +16,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
         * TOPSIS
     * Miscellaneous - Importance-Performance Analysis
 4. **Conclusion** - 
-5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110" target="_blank"><b>Github</b></a>
+5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110/" target="_blank"><b>Github</b></a>
 
 ---
 
@@ -29,6 +29,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 3. **Result of Experiment** -
 4. **Conclusion** - 
 5. [**Slide**]()
+6. <a href="https://unerue.github.io/" target="_blank"><b>Github</b></a>
 
 ---
 
@@ -52,7 +53,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110" target="_blank"><b>Paper (SCI)</b></a>
+5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110/" target="_blank"><b>Paper (SCI)</b></a>
 
 ---
 
@@ -75,7 +76,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070" target="_blank"><b>Paper</b></a>
+5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070/" target="_blank"><b>Paper</b></a>
 
 
 ---
@@ -98,7 +99,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank">Paper (KCI)</a>
+5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424/" target="_blank">Paper (KCI)</a>
 
 ---
 
@@ -110,4 +111,4 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank">Paper</a>
+5. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990/" target="_blank">Paper</a>
