@@ -15,7 +15,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
         * AHP (Analytical Hierarchy Process)
         * TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)
         * PROMETHEE (Preference Ranking Organization METHod for Enrichment of Evaluations)
-        * Goal Prograaming
+        * Goal Programming
     * Miscellaneous - IPA (Importance-Performance Analysis)
 4. **Conclusion** - 
 5. <a href="\" target="_blank"><b>Github</b></a>
