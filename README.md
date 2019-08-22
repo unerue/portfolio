@@ -52,7 +52,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. Data and Methods
 3. Result of Experiment
 4. Conclusion
-5. [Paper](https://www.sciencedirect.com/science/article/pii/S0925753519301110)
+5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110" target="_blank">Paper</a>
 
 ---
 
@@ -75,7 +75,8 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. Data and Methods
 3. Result of Experiment
 4. Conclusion
-5. [Paper](http://www.papersearch.net/thesis/article.asp?key=3634070)
+5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070" target="_blank">Paper</a>
+
 
 ---
 ## 물류 최적화 모형 개발<br>Joint Replenishment and  Delivery Problem under dynamic demand
@@ -97,4 +98,14 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. Data and Methods
 3. Result of Experiment
 4. Conclusion
-5. [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424)
+5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank">Paper</a>
+
+## HACCP 위생관리 설문지 분석
+
+`Survey`, `Importance-Performance Analysis`
+
+1. Objectives
+2. Data and Methods
+3. Result of Experiment
+4. Conclusion
+5. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank">Paper</a>
