@@ -36,7 +36,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## 게임 유저 이탈 예측<br>Churn Analysis of Users in Online Games
 
-`Data Analysis`, `Machine Learning`
+`Team-Project`, `Data Analysis`, `Machine Learning`
 
 1. **Objectives** - 
 2. **Data and Methods** -
@@ -49,7 +49,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## 쇼핑몰 고객 이탈 예측 및 분석<br>Predicting Shopper online and Developing Supply Chain Model
 
-`Data Analysis`, `Machine Learing`, `Operations Research`
+`Team-Project`, `Data Analysis`, `Machine Learing`, `Operations Research`
 
 1. **Objectives** - 
 2. **Data and Methods** -
