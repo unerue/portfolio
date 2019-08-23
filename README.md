@@ -42,7 +42,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. [**Slide**]()
+5. [**Slide**](https://github.com/unerue/portfolio/tree/master/doc/bigcontest-2018.pdf)
 6. <a href="\" target="_blank"><b>Github</b></a>
 
 ---
@@ -55,7 +55,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. [**Slide**]()
+5. [**Slide**](https://github.com/unerue/portfolio/tree/master/doc/bigdata-competition-2018.pdf)
 
 ---
 
