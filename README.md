@@ -36,7 +36,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## 게임 유저 이탈 예측<br>Churn Analysis of Users in Online Games
 
-with [Kyohoon Jin](https://github.com/fhzh123)
+with [**Kyohoon Jin**](https://github.com/fhzh123)
 
 `Team-Project`, `Data Analysis`, `Machine Learning`
 
@@ -50,6 +50,8 @@ with [Kyohoon Jin](https://github.com/fhzh123)
 ---
 
 ## 쇼핑몰 고객 이탈 예측 및 분석<br>Predicting Shopper online and Developing Supply Chain Model
+
+with [**Yuntae Kim**](https://gitlab.com/kwellyt), [**Kyohoon Jin**](https://github.com/fhzh123)
 
 `Team-Project`, `Data Analysis`, `Machine Learing`, `Operations Research`
 
