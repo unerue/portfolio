@@ -95,8 +95,8 @@ with [**Yuntae Kim**](https://gitlab.com/kwellyt), [**Kyohoon Jin**](https://git
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
-6. <a href="https://github.com/unerue/portfolio/tree/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance_performance_analysis.ipynb</b></a>
+5. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance_performance_analysis.ipynb</b></a>
+6. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
 
 ---
 
