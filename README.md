@@ -18,7 +18,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
         * Goal Programming
     * Miscellaneous - IPA (Importance-Performance Analysis)
 4. **Conclusion** - 
-5. <a href="\" target="_blank"><b>Github</b></a>
+5. <a href="https://github.com/unerue/decisionpy" target="_blank"><b>Github</b></a>
 
 ---
 
@@ -42,7 +42,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. [**Slide**](https://github.com/unerue/portfolio/tree/master/doc/bigcontest-2018.pdf)
+5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigcontest-2018.pdf" target="_blank"><b>Slide</b></a>
 6. <a href="\" target="_blank"><b>Github</b></a>
 
 ---
@@ -55,7 +55,55 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. [**Slide**](https://github.com/unerue/portfolio/tree/master/doc/bigdata-competition-2018.pdf)
+5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigdata-competition-2018.pdf" target="_blank"><b>Slide</b></a>
+
+---
+
+## 웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석<br>Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning
+
+`Natural Language Processing`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank"><b>KCI Paper</b></a>
+
+---
+
+## 복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구<br>Multi-Product Dynamic Lot-Sizing Problem with Different Lead-Times of Multi-Modal Transportation
+
+`Supply Chain`, `Operations Research`, `Genetic Algorithm`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070" target="_blank"><b>Paper</b></a>
+
+---
+
+## HACCP 위생관리 설문지 분석<br>Analzing Questionair on HACCP
+
+`Survey`, `Importance-Performance Analysis`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
+
+---
+
+## 물류 최적화 모형 개발<br>Joint Replenishment and  Delivery Problem under dynamic demand
+
+`Supply Chain`, `Operations Research`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. [**Paper**](), 
 
 ---
 
@@ -70,47 +118,3 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 5. [**Paper**](), 
 
 ---
-## 복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구<br>Multi-Product Dynamic Lot-Sizing Problem with Different Lead-Times of Multi-Modal Transportation
-
-`Supply Chain`, `Operations Research`, `Genetic Algorithm`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070" target="_blank"><b>Paper</b></a>
-
-
----
-## 물류 최적화 모형 개발<br>Joint Replenishment and  Delivery Problem under dynamic demand
-
-`Supply Chain`, `Operations Research`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. [**Paper**](), 
-
----
-## 웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석<br>Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning
-
-`Natural Language Processing`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank"><b>KCI Paper</b></a>
-
----
-
-## HACCP 위생관리 설문지 분석<br>Analzing Questionair on HACCP
-
-`Survey`, `Importance-Performance Analysis`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
