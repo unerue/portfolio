@@ -40,12 +40,15 @@ with [**Kyohoon Jin**](https://github.com/fhzh123)
 
 `Team-Project`, `Data Analysis`, `Machine Learning`
 
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
+1. **Objectives** - We participated in the BigContest held in 2018 and won the award.
+2. **Data and Methods**
+    * Dataset - 5Gb
+    * Models - Random Forests, XGBoost
+    * Optimizing hyper-parameters using `Genetic Algorithm`
+3. **Result of Experiment** - 
 4. **Conclusion** - 
 5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigcontest-2018.pdf" target="_blank"><b>Slide</b></a>
-6. <a href="\" target="_blank"><b>Github</b></a>
+6. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/[]/genetic_optimizer.ipynb" target="_blank"><b>genetic_optimizer.ipynb</b></a>
 
 ---
 
