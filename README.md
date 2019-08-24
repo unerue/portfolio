@@ -48,7 +48,7 @@ with [**Kyohoon Jin**](https://github.com/fhzh123)
 3. **Result of Experiment** - 
 4. **Conclusion** - 
 5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigcontest-2018.pdf" target="_blank"><b>Slide</b></a>
-6. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/[]/genetic_optimizer.ipynb" target="_blank"><b>genetic_optimizer.ipynb</b></a>
+6. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigcontest/genetic_optimizer.py" target="_blank"><b>genetic_optimizer.py</b></a>
 
 ---
 
