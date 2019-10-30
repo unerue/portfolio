@@ -4,7 +4,7 @@
 
 Repository contained portfolio of data anlaysis, machine learning, operations research and others completed by me.
 
-## Publication
+## Publications
 
 ### <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" />  <a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to Occupational Injury</a>
 
@@ -30,7 +30,26 @@ Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 22
 
 조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
 
-## Conference
+---
+
+## Conferences
+
+### Joint replenishment and delivery scheduling under dynamic demand
+
+강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.
+
+### 건설현장 안전 지적 사항 분석
+
+강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
+
+### Analysis of the Factors Influencing Fall Accidents in Korea
+
+Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019. 7). _International Conference on
+Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
+
+### 랜덤 포레스트 기법을 이용한 건설현장 안전재해 예측 모형 기초 연구
+
+강경수<sup>1</sup>, 류한국<sup>*</sup> (2018. 11). _한국건축시공학회 추계학술발표대회_. 서울과학기술대학교.
 
 ---
 
