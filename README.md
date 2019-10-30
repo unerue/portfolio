@@ -6,11 +6,11 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Publications
 
-<img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /> **<a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to Occupational Injury**</a><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2020). Engineering, Construction and Architectural Management.
+**<a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to Occupational Injury**</a> <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2020). Engineering, Construction and Architectural Management.
 
-<img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /> **<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>**<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
+**<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
 
-<img alt="KCI" src="https://img.shields.io/badge/KCI%20-yellow.svg" /> **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a><br>A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand**<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회, 24(3), 65-71.
+<img alt="KCI" src="https://img.shields.io/badge/KCI%20-yellow.svg" /> **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a> (A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand)**<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회, 24(3), 65-71.
 
 ### <img alt="KCI" src="https://img.shields.io/badge/KCI%20-yellow.svg" /> <a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a><br>Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning
 
