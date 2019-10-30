@@ -1,6 +1,6 @@
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
-# Portfolio
+# Portfolio and CV
 
 Repository contained portfolio of data anlaysis, machine learning, operations research and others completed by me.
 
@@ -35,7 +35,28 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ## Projects
 
-### 파이썬을 활용한 다기준 의사결정 라이브러리 제작<br>Multiple Criterion Decision-Making Library with Python
+### Joint Replenishment and Delivery Scheduling with Linear Programming
+
+1. **Objective** - 
+2. **Implementation of Algorithm**
+    * RAND algorithm
+    * Integer programming
+    * Genetic algorithm
+3. **Conclusion** - 
+4. **Github** - 
+5. **Paper** -
+
+### Applied Word2Vec and Topic Modeling to the Safety report 
+
+`Manuscript`, `Natural Language Processing`, `Word2Vec`, `Topic Modeling`
+
+1. **Objective** - 
+2. **Data and Methods**
+4. **Conclusion** - 
+5. **Github** -
+5. **Paper** - 
+
+### Multiple Criterion Decision-Making Library with Python
 
 `Python`, `Decision-Making`
 
@@ -53,27 +74,25 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-### 메타휴리스틱스 기초 강좌
+### 파이썬을 활용한 메타휴리스틱스 기초 강좌
 
-`Supply Chain`, `Operations Research`
+`Python`, `Metaheuristics`, `Combinatorial Optimization`
 
 1. **Objectives** - 
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. [**Paper**](), 
 
 ---
 
-### 경영과학 기초 강좌
+### 파이썬을 활용한 경영과학 기초 강좌
 
-`Supply Chain`, `Operations Research`
+`Python`, `Operations Research`
 
 1. **Objectives** - 
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. [**Paper**](), 
 
 ---
 
@@ -85,7 +104,6 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. [**Paper**](), 
 
 ---
 
