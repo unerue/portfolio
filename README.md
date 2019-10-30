@@ -7,23 +7,23 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Publication
 
-### <a href="">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>
+#### <a href="">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>
 
 Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
 
-### <a href="">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a><br>A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand
+#### <a href="">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a><br>A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand
 
 차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회, 24(3), 65-71.
 
-### <a href="">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a><br>Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning
+#### <a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a><br>Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning
 
 강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
 
-### <a href="">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a><br>Multi-Product Dynamic Lot-Sizing Problem with Different Lead-Times of Multi-Modal Transportation
+#### <a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a><br>Multi-Product Dynamic Lot-Sizing Problem with Different Lead-Times of Multi-Modal Transportation
 
 차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
 
-### <a href="">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a><br>The Study on Performance Analysis of HACCP Prerequisites for Small and Medium Food Companies
+#### <a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a><br>The Study on Performance Analysis of HACCP Prerequisites for Small and Medium Food Companies
 
 조권래<sup>1</sup>， 강경수<sup>2</sup>， 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
 
