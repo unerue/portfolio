@@ -7,8 +7,6 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Publication
 
----
-
 ### <a href="">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>
 
 Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
