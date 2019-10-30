@@ -6,17 +6,17 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Publications
 
-**<a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to ...**</a> <img alt="SCIE" width="3%" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2020). Engineering, Construction and Architectural Management.
+**<a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to ...**</a> <img alt="SCIE" height="12em" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2020). Engineering, Construction and Architectural Management.
 
-**<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** <img alt="SCIE" width="3%" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
+**<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** <img alt="SCIE" height="12em" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
 
-**<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a> <img alt="KCI" width="2.5%" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand)**<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회, 24(3), 65-71.
+**<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand)**<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회, 24(3), 65-71.
 
-**<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a> <img alt="KCI" width="2.5%" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning)**<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
+**<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning)**<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
 
-**<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a> <img alt="KCI" width="2.5%" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(Multi-Product Dynamic Lot-Sizing Problem with Different Lead-Times of Multi-Modal Transportation)**<br>차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
+**<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(Multi-Product Dynamic Lot-Sizing Problem with Different Lead-Times of Multi-Modal Transportation)**<br>차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
 
-**<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" width="2.5%" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(The Study on Performance Analysis of HACCP Prerequisites for Small and Medium Food Companies)**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
+**<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" /><br>(The Study on Performance Analysis of HACCP Prerequisites for Small and Medium Food Companies)**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
 
 ---
 
@@ -53,7 +53,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## 
+### 메타휴리스틱스 기초 강좌
 
 `Supply Chain`, `Operations Research`
 
@@ -65,7 +65,19 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## 동적 수요를 고려한 다품목 일괄구매 및 조달일정계획 모형
+### 경영과학 기초 강좌
+
+`Supply Chain`, `Operations Research`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. [**Paper**](), 
+
+---
+
+### 동적 수요를 고려한 다품목 일괄구매 및 조달일정계획 모형
 
 `Supply Chain`, `Joint Replenishment Problem`
 
@@ -77,7 +89,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## 웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석
+### 웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석
 
 `Natural Language Processing`, `Web Crawling`
 
@@ -89,7 +101,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## 복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정
+### 복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정
 
 `Supply Chain`, `Operations Research`, `Genetic Algorithm`
 
@@ -101,7 +113,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## 쇼핑몰 고객 이탈 예측 및 분석<br>Predicting Shopper online and Developing Supply Chain Model
+### 쇼핑몰 고객 이탈 예측 및 분석<br>Predicting Shopper online and Developing Supply Chain Model
 
 with [**Yuntae Kim**](https://gitlab.com/kwellyt), [**Kyohoon Jin**](https://github.com/fhzh123)
 
@@ -116,7 +128,7 @@ with [**Yuntae Kim**](https://gitlab.com/kwellyt), [**Kyohoon Jin**](https://git
 ---
 
 
-## 게임 유저 이탈 예측<br>Churn Analysis of Users in Online Games
+### 게임 유저 이탈 예측<br>Churn Analysis of Users in Online Games
 
 with [**Kyohoon Jin**](https://github.com/fhzh123)
 
@@ -134,9 +146,7 @@ with [**Kyohoon Jin**](https://github.com/fhzh123)
 
 ---
 
-
-
-### HACCP 선행요건 수행도 평가에 관한 연구 설문지 분석
+### HACCP 선행요건 수행도 평가에 관한 연구 설문지 분석 
 
 `Survey`, `Importance-Performance Analysis`
 
@@ -146,4 +156,3 @@ with [**Kyohoon Jin**](https://github.com/fhzh123)
 3. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance_performance_analysis.ipynb</b></a>
 4. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
 
----
