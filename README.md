@@ -6,7 +6,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Publications
 
-**<a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to ...**</a> <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2020). Engineering, Construction and Architectural Management.
+**<a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to ...**</a> <img width="3%" alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2020). Engineering, Construction and Architectural Management.
 
 **<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
 
@@ -33,11 +33,9 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## Project
+## Projects
 
----
-
-## 파이썬을 활용한 다기준 의사결정 라이브러리 제작<br>Multiple Criterion Decision-Making Library with Python
+### 파이썬을 활용한 다기준 의사결정 라이브러리 제작<br>Multiple Criterion Decision-Making Library with Python
 
 `Python`, `Decision-Making`
 
@@ -55,17 +53,68 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## 건설안전재해 사고발생형태 예측 모형<br>Predicting Occupaional Accident Types
+## 
 
-`Random Forests`, `Interpretation`
+`Supply Chain`, `Operations Research`
 
 1. **Objectives** - 
 2. **Data and Methods** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
-5. <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110" target="_blank"><b>SCI Paper</b></a>
+5. [**Paper**](), 
 
 ---
+
+## 동적 수요를 고려한 다품목 일괄구매 및 조달일정계획 모형
+
+`Supply Chain`, `Joint Replenishment Problem`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. [**Paper**](), 
+
+---
+
+## 웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석
+
+`Natural Language Processing`, `Web Crawling`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank"><b>Paper</b></a>
+
+---
+
+## 복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정
+
+`Supply Chain`, `Operations Research`, `Genetic Algorithm`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070" target="_blank"><b>Paper</b></a>
+
+---
+
+## 쇼핑몰 고객 이탈 예측 및 분석<br>Predicting Shopper online and Developing Supply Chain Model
+
+with [**Yuntae Kim**](https://gitlab.com/kwellyt), [**Kyohoon Jin**](https://github.com/fhzh123)
+
+`Team-Project`, `Data Analysis`, `Machine Learing`, `Operations Research`
+
+1. **Objectives** - 
+2. **Data and Methods** -
+3. **Result of Experiment** -
+4. **Conclusion** - 
+5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigdata-competition-2018.pdf" target="_blank"><b>Slide</b></a>
+
+---
+
 
 ## 게임 유저 이탈 예측<br>Churn Analysis of Users in Online Games
 
@@ -85,77 +134,16 @@ with [**Kyohoon Jin**](https://github.com/fhzh123)
 
 ---
 
-## 쇼핑몰 고객 이탈 예측 및 분석<br>Predicting Shopper online and Developing Supply Chain Model
 
-with [**Yuntae Kim**](https://gitlab.com/kwellyt), [**Kyohoon Jin**](https://github.com/fhzh123)
 
-`Team-Project`, `Data Analysis`, `Machine Learing`, `Operations Research`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigdata-competition-2018.pdf" target="_blank"><b>Slide</b></a>
-
----
-
-## 웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석<br>Keyword Analysis of KCI Journals on Business Administration using Web Crawling and Machine Learning
-
-`Natural Language Processing`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank"><b>KCI Paper</b></a>
-
----
-
-## 복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구<br>Multi-Product Dynamic Lot-Sizing Problem with Different Lead-Times of Multi-Modal Transportation
-
-`Supply Chain`, `Operations Research`, `Genetic Algorithm`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070" target="_blank"><b>Paper</b></a>
-
----
-
-## HACCP 위생관리 설문지 분석<br>Analzing Questionair on HACCP
+### HACCP 선행요건 수행도 평가에 관한 연구 설문지 분석
 
 `Survey`, `Importance-Performance Analysis`
 
+1. **Date** - 2017. 10. ~ 2017. 11.
 1. **Objectives** - 
 2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance_performance_analysis.ipynb</b></a>
-6. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
-
----
-
-## 물류 최적화 모형 개발<br>Joint Replenishment and  Delivery Problem under dynamic demand
-
-`Supply Chain`, `Operations Research`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. [**Paper**](), 
-
----
-
-## 항공 운송 및 결항 예측 모형 개발<br>Predicting Flight Delay
-
-`Supply Chain`, `Operations Research`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. [**Paper**](), 
+3. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance_performance_analysis.ipynb</b></a>
+4. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
 
 ---
