@@ -6,15 +6,15 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Publication
 
-### <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /> Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to Occupational Injury
+### <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" />  <a href="/">Factors Influencing Critical Accidents at Construction Sites with a Focus on Working Days Lost Due to Occupational Injury</a>
 
 Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2020). Engineering, Construction and Architectural Management.
 
-### <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /> <a href="">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>
+### <img alt="SCIE" src="https://img.shields.io/badge/SCIE%20-yellow.svg" /> <a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>
 
 Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236, 2019.
 
-### <img alt="KCI" src="https://img.shields.io/badge/KCI%20-yellow.svg" /> <a href="">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a><br>A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand
+### <img alt="KCI" src="https://img.shields.io/badge/KCI%20-yellow.svg" /> <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a><br>A Study on Joint Replenishment and Delivery Scheduling Problem with Dynamic Demand
 
 차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회, 24(3), 65-71.
 
