@@ -16,7 +16,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
 
-**<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
+**<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.<br><a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance-performance-analysis.ipynb</b></a>
 
 ---
 
@@ -33,28 +33,28 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## Projects (작성 중)
+## Projects (수정 중)
 
-
-**IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단
+**IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722)
 
 `Data Analysis`
 
 1. **기간** - 2018년 3월 1일부터 2020년 2월 29일까지
 2. **목적** - 
 3. **프로젝트 내 업무** -
-    * 안전관리공단(KOSHA), D기업 안전 보고서, IoT 센서 로그 데이터 및 관련 정형/비정형 데이터 전처리
-    * 데이터 분석 및 모형 개발 기획
+    * 설문지, 보고서, 로그 데이터 등과 같은 프로젝트 관련 정형/비정형 데이터 전처리
+    * 데이터 분석 및 모형 개발 기획 및 총괄
     * 데이터 분석 및 모형 파이프라인 구축
+    * D건설회사 안전 보고서 데이터를 분석하여 보고서 내의 특징과 잠재된 패턴을 분석하고 추후 Image Captioning, 문서 분류, 문자열 자동 생성과 같이 보고서를 자동으로 작성하는 소프트웨어 제작 기초 연구
 4. **프로젝트 성과** - SCIE: 2, KCI: 4
 
+---
 
-
-**Joint Replenishment and Delivery Scheduling with Linear Programming**<br>
+**공급사슬  재고관리모형 개발**<br>창원대학교 경영학과
 
 `Supply Chain`, `RAND`, `Linear Programming`, `Genetic Algorithm`
 
-1. **기간** - 2019년 9월 1일부터 2019년 12월 31일까지
+1. **기간** - 2018년 9월 1일부터 2019년 12월 31일까지
 1. **목적** - 다품목 일괄구매 및 조달일정계획 모형에 선형 계획법을 적용하여 모형을 개발하고 최적해 탐색 가능성과 기존 알고리즘과의 비교 실험
 1. **기술적 관점에서의 역할** - 
 2. **프로젝트 내 업무** 시장분석/사양결정/
@@ -70,19 +70,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-**Applied Word2Vec and Topic Modeling to the Safety report**<br>with **Hanguk Ryu**, 한국연구재단
-
-`Natural Language Processing`, `Word2Vec`, `Topic Modeling`
-
-1. **기간** - 2019년 9월 1일부터 2019년 12월 31일까지
-1. **목적** - D건설회사 안전 보고서 데이터를 분석하여 보고서 내의 특징과 잠재된 패턴을 분석하고 추후 Image Captioning, 문서 분류, 문자열 자동 생성과 같이 보고서를 자동으로 작성하는 소프트웨어 제작 기초 연구 
-2. **데이터 및 방법론** - D건설회사 안전 보고서 2017년 한해 230,487건
-4. **결론** - 
-5. **Github** - 논문 등재 완료 후 코드 공개
-
----
-
-**파이썬을 활용한 다기준 의사결정 방법론 라이브러리 제작**
+**파이썬을 활용한 다기준 의사결정 방법론 라이브러리 제작**<br>개인 프로젝트
 
 `Python`, `Decision-Making`
 
@@ -101,7 +89,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-### 파이썬을 활용한 메타휴리스틱스
+**파이썬을 활용한 메타휴리스틱스**<br>개인 프로젝트
 
 `Python`, `Metaheuristics`, `Combinatorial Optimization`
 
@@ -113,7 +101,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-### 파이썬을 활용한 경영과학
+**파이썬을 활용한 경영과학**<br>개인 프로젝트
 
 `Python`, `Operations Research`
 
@@ -129,46 +117,24 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 2. **기간** - 2018년 10월 4일부터 2018년 11월 22일까지
 3. **목적** - 재학생과 지역의 청년층에게 빅데이터 관련 교육 기회 제공, 사회 전반의 데이터 활용에 필수적이고 과학적 의사결정의 토대가 되는 데이터 기획 능력과 분석 능력을 가진 실무형 데이터 분석 전문가 양성. 비전공자도 들을 수 있는 빅데이터 분석 준전문가 양성 교육 과정으로 ADSP 자격증을 목표로 
+3. **프로젝트 내 업무** - 
 4. **결론** 
 
 ---
 
-### 동적 수요를 고려한 다품목 일괄구매 및 조달일정계획 모형
-
-`Supply Chain`, `Joint Replenishment Problem`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-
----
-
-### 웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석
+**웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석**<br>팀 프로젝트, 참여인원: [**박세민**]()
 
 `Natural Language Processing`, `Web Crawling`
 
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
+1. **기간** - 
+2. **프로젝트 내 업무** -
+3. **데이터 및 방법론** -
+4. **프로젝트 성과** - KCI 논문 등재
 5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank"><b>Paper</b></a>
 
 ---
 
-### 복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정
-
-`Supply Chain`, `Operations Research`, `Genetic Algorithm`
-
-1. **Objectives** - 
-2. **Data and Methods** -
-3. **Result of Experiment** -
-4. **Conclusion** - 
-5. <a href="http://www.papersearch.net/thesis/article.asp?key=3634070" target="_blank"><b>Paper</b></a>
-
----
-
-**L쇼핑몰 상품 추천 및 수요 예측**<br>참여인원 [**김윤태**](https://gitlab.com/kwellyt), [**진교훈**](https://github.com/fhzh123)
+**L쇼핑몰 상품 추천 및 수요 예측**<br>팀 프로젝트, 참여인원: [**김윤태**](https://gitlab.com/kwellyt), [**진교훈**](https://github.com/fhzh123)
 
 `Team-Project`, `Data Analysis`, `Machine Learing`, `Operations Research`
 
@@ -181,9 +147,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-### 게임 유저 이탈 예측
-
-참여인원 [**진교훈**](https://github.com/fhzh123)
+**2018 빅콘테스트 NC소프트 게임 유저 이탈 예측**<br>팀 프로젝트, 참여인원: [**진교훈**](https://github.com/fhzh123)
 
 `Team-Project`, `Data Analysis`, `Machine Learning`
 
