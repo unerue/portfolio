@@ -1,6 +1,6 @@
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
-# Portfolio and CV
+# Portfolio
 
 Repository contained portfolio of data anlaysis, machine learning, operations research and others.
 
@@ -22,7 +22,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Conferences
 
-**Joint replenishment and delivery scheduling under dynamic demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.
+**Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.
 
 **건설현장 안전 지적 사항 분석**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
 
@@ -33,9 +33,20 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## Projects
+## Projects (작성 중)
 
-**Joint Replenishment and Delivery Scheduling with Linear Programming**<br>with **Byungchul Cha**
+
+**IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단
+
+
+1. **기간** - 2018년 3월 1일부터 2020년 2월 29일까지
+2. **목적** - 
+3. **기술적 관점에서의 역할** -
+4. **프로젝트 성과** - 객관적으로 기재
+
+
+
+**Joint Replenishment and Delivery Scheduling with Linear Programming**<br>
 
 `Supply Chain`, `RAND`, `Linear Programming`, `Genetic Algorithm`
 
@@ -153,28 +164,28 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-### 쇼핑몰 고객 이탈 예측 및 분석<br>Predicting Shopper online and Developing Supply Chain Model
-
-with [**Yuntae Kim**](https://gitlab.com/kwellyt), [**Kyohoon Jin**](https://github.com/fhzh123)
+**L쇼핑몰 상품 추천 및 수요 예측**<br>참여인원 [**김윤태**](https://gitlab.com/kwellyt), [**진교훈**](https://github.com/fhzh123)
 
 `Team-Project`, `Data Analysis`, `Machine Learing`, `Operations Research`
 
-1. **Objectives** - 
-2. **Data and Methods** -
+1. **기간** - 2018년 12월 3일부터 2019년 1월 16일까지
+1. **목적** - 온라인 행동 기반 트렌드 예측(주요주제) 주요 상품군별 온라인 선호지수 생성, 상품군별 수요 트렌드 예측 및 인사이트 도출, 신규 서비스 제안. 온라인 행동 데이터(검색, 페이지뷰 등), 상품분류정보(LPOINT Big Data Competition 데이터)
+2. **수행역할** -
 3. **Result of Experiment** -
 4. **Conclusion** - 
 5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigdata-competition-2018.pdf" target="_blank"><b>Slide</b></a>
 
 ---
 
+### 게임 유저 이탈 예측
 
-### 게임 유저 이탈 예측<br>Churn Analysis of Users in Online Games
-
-with [**Kyohoon Jin**](https://github.com/fhzh123)
+참여인원 [**진교훈**](https://github.com/fhzh123)
 
 `Team-Project`, `Data Analysis`, `Machine Learning`
 
-1. **Objectives** - We participated in the BigContest held in 2018 and won the award.
+1. **기간** - 2018년 7월 10일부터 9월 14일까지
+1. **목적** - 게임 유저 이탈 에측 모형 개발
+이탈 예측은 게임업계뿐만이 아니라 통신, 은행 등 다양한 분야에서도 해지방어, 고객충성도 유지 등 각기 다른 명칭으로 불리우며 지대한 관심을 갖고 있는 문제입니다. 과거의 이력 (Signal)과 군입대, 여행, 출장과 같은 무작위성을 띄는 개인사 및 외부적인 요건 (Noise)이 존재하기 때문에, 오래전부터 데이터 분석가들의 사랑을 받아온 전형적인 데이터 분석/예측 문제이기도 합니다. 특히 신규 유저 유입 (User Acquisition) 대비 기존 유저 잔존 (User Retention)이 효율적이라는 것이 여러 논문을 통해 확인이 되면서, “이탈예측을 통해 유저 잔존율 상승”의 중요성이 강조되고 있으며, 저희 실에서도 오래전부터 심도있게 연구하고, NDC 발표도 진행했을 만큼 관심이 많은 분야입니다. (발표 때에는 민감한 내용을 얘기 할 수 없어, 대략적인 방법론 정도만 언급했다는 전설이….) 하지만, 이탈을 고려해야하는 기업 소속이 아니거나, 또는 관련 기업 소속이더라도 이탈 관련 업무를 처리하지 않는 분들에게는 생소한 분야이기도 합니다. 그렇기 때문에, 이번 2018 빅콘테스트가 많은 분들에게 게임 데이터를 이용하여 이탈 예측을 경험해보는 기회가 되기를 기원합니다. 분석 작업을 진행하기 위해서는 분석의 대상, 데이터 분석을 통해서 확인할 가설 설정 등의 작업들이 요구되는데요. 이탈 예측 또한 마찬가지입니다. 사실 이탈 예측을 하기 위해서는, 분석 대상 선정, 분석 기간 선정, 이탈의 정의 설정, 사용 데이터 구성 등 수도 없이 많은 정의 설정 및 사전 작업들이 요구됩니다. 2018 빅콘테스트의 이탈 예측 대회는 참가자분들의 편의를 위해 이러한 사전 작업들이 적용된 데이터를 제공하였기 때문에, 조금 더 쉽게 이탈 예측 모델링을 진행 하실 수 있으리라 생각됩니다.
 2. **Data and Methods**
     * Dataset - 5Gb
     * Models - Random Forests, XGBoost
