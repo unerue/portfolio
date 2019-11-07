@@ -42,7 +42,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 **IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722)
 
 1. **기간** - 2018년 3월 1일부터 2020년 2월 29일까지
-2. **목적** - 
+2. **목적** - 건설현장 안전재해 예방을 위한 안전장비 개발 및 관련 데이터 분석
 3. **수행 업무** -
     * 설문지, 보고서, 로그 데이터 등과 같은 프로젝트 관련 정형/비정형 데이터 전처리
     * 데이터 분석 및 모형 개발 기획 및 총괄
@@ -54,15 +54,13 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 **공급사슬 재고관리모형 개발**<br>창원대학교 경영학과
 
-`Supply Chain`, `RAND`, `Linear Programming`, `Genetic Algorithm`
-
 1. **기간** - 2018년 9월 1일부터 2019년 12월 31일까지
-1. **목적** - 다품목 일괄구매 및 조달일정계획 모형에 선형 계획법을 적용하여 모형을 개발하고 최적해 탐색 가능성과 기존 알고리즘과의 비교 실험
-1. **수행 업무** - 
+1. **목적** - 공급사슬단계에 존재하는 재고관리, 일정계획, 물류 등을 연구하고 모형을 개발
 1. **사용 기술**
-    * RAND algorithm
-    * Linear programming
-    * Genetic algorithm
+    * RAND, Mathematical modeling, Metaheuristics
+1. **수행 업무**
+    * 다품목 일괄구매 및 조달일정계획 모형에 선형 계획법을 적용하여 모형을 개발하고 최적해 탐색 가능성과 기존 알고리즘과의 비교 실험
+    * 메타휴리스틱스 적용
 3. **성과** 
 4. **Github** - 논문 등재 완료 후 코드 공개
 
@@ -71,10 +69,11 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 **파이썬을 활용한 다기준 의사결정 방법론 라이브러리 제작**<br>개인 프로젝트
 
 1. **기간** - 2019년 10월 1일부터 2019년 12월 31일까지
-1. **목적** - 
-2. **수행 업무** 
+1. **목적** - 계량적 의사결정 방법론을 `sklearn` API를 참고하여 파이썬으로 구현
+2. **수행 업무** - 계량적 의사결정 방법론 구현
 3. **구현 기술**
-    * 평가기법 - Data Envelopment Analysis
+    * 평가기법
+        * Data Envelopment Analysis
     * 의사결정기법
         * Analytical Hierarchy Process
         * Technique for Order of Preference by Similarity to Ideal Solution
@@ -87,17 +86,25 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 **파이썬을 활용한 메타휴리스틱스**<br>개인 프로젝트
 
-1. **기간** - 
-1. **목적** - 
-2. **메타휴리스틱 기법** -
+1. **기간** - 2019년 9월 1일부터 
+1. **목적** - 조합 최적화에서 탐색 기법으로 사용되는 메타휴리스틱스를 파이썬으로 구현
+2. **메타휴리스틱 기법**
+    * Simulated Annealing
+    * Tabu Search
+    * Genetic Algorithm
+    * Evolution Strategy
+    * Particle Swarm Optimization
+    * Ant Colony Optimization
 4. <a href="/" target="_blank"><b>Github</b></a>
 
 ---
 
 **파이썬을 활용한 경영과학**<br>개인 프로젝트
 
-1. **기간**
-1. **목적** 
+1. **기간** - 2019년 10월 1일부터
+1. **목적** - 경영과학의 대부분은 EXCEL을 학습도구로 사용, 이를 파이썬을 이용하여 기초 강좌를 개발
+1. **수행 업무**
+    * 경영과학 서적 2권 파이썬 `GUROBI`, `PuLP`로 개발
 4. <a href="/" target="_blank"><b>Github</b></a>
 
 ---
