@@ -26,7 +26,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Conferences
 
-**Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.<br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/models.py">models.py</a>,<a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/genetic_algorithm.py">genetic_algorithm.py</a>
+**Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.<br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/models.py">models.py</a><br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/genetic_algorithm.py">genetic_algorithm.py</a>
 
 **건설현장 안전 지적 사항 분석**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
 
