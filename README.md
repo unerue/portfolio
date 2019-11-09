@@ -105,7 +105,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 1. **목적** - 경영과학의 대부분은 EXCEL을 학습도구로 사용, 이를 파이썬을 이용하여 기초 강좌를 개발
 1. **수행 업무**
     * 경영과학 서적 2권 파이썬 `GUROBI`, `PuLP`로 개발
-4. <a href="/" target="_blank"><b>Github</b></a>
+4. <a href="https://github.com/unerue/or-tutorial" target="_blank"><b>Github</b></a>
 
 ---
 
@@ -132,15 +132,6 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
     * 논문의 작성을 담당
 4. **성과** - 대한경영학회지 등재
 5. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08011424" target="_blank"><b>Paper</b></a>
-
----
-
-**L쇼핑몰 상품 추천 및 수요 예측**<br>참여인원: [**김윤태**](https://gitlab.com/kwellyt), [**진교훈**](https://github.com/fhzh123)
-
-1. **기간** - 2018년 12월 3일부터 2019년 1월 16일까지
-1. **목적** - 온라인 행동 기반 트렌드 예측(주요주제) 주요 상품군별 온라인 선호지수 생성, 상품군별 수요 트렌드 예측 및 인사이트 도출, 신규 서비스 제안. 온라인 행동 데이터(검색, 페이지뷰 등), 상품분류정보(LPOINT Big Data Competition 데이터)
-2. **수행 업무** -
-5. <a href="https://github.com/unerue/portfolio/tree/master/doc/bigdata-competition-2018.pdf" target="_blank"><b>Slide</b></a>
 
 ---
 
