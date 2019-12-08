@@ -172,6 +172,8 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ## Awards
 
+**캐글 코리아와 함께하는 1st ML 대회**<br>2019년 2월 13일 구글 코리아 후원/캐글 코리아
+
 **2018 빅콘테스트 분석 분야 챔피언 리그 운영위원장상**<br>2018년 11월 21 한국정보화진흥원
 
 **강의평가 우수교수상(Best Teacher Awards, BTA)**<br>2016년 2월 23일 창원대학교
