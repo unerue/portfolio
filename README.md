@@ -26,7 +26,7 @@ Repository contained portfolio of data anlaysis, machine learning, operations re
 
 ## Conferences
 
-**Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.<br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/models.py">models.py</a><br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/genetic_algorithm.py">genetic_algorithm.py</a>
+**Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.<br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/models.py">models.py</a>, <a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/genetic_algorithm.py">genetic_algorithm.py</a>
 
 **건설현장 안전 지적 사항 분석** - `우수학술상`<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
 
@@ -37,27 +37,30 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## Projects (수정 중)
+## Projects
 
 **IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722)
 
 1. **기간** - 2018년 3월 1일부터 2020년 2월 29일까지
 2. **목적** - 건설현장 안전재해 예방을 위한 안전장비 개발 및 관련 데이터 분석
+3. **사용 기술**
+    * 파이썬, R 프로그래밍
+    * 기계학습, 토픽 모델링, Word2Vec, 이미지 캡셔닝
 3. **수행 업무** -
     * 설문지, 보고서, 로그 데이터 등과 같은 프로젝트 관련 정형/비정형 데이터 전처리
     * 데이터 분석 및 모형 개발 기획 및 총괄
     * 데이터 분석 및 모형 파이프라인 구축
     * D건설회사 안전 보고서 데이터를 분석하여 보고서 내의 특징과 잠재된 패턴을 분석하고 추후 Image Captioning, 문서 분류, 문자열 자동 생성과 같이 보고서를 자동으로 작성하는 소프트웨어 제작 기초 연구
-4. **성과** - SCIE: 2, KCI: 4
+4. **성과** - SCIE: 1, KCI: 8
 
 ---
 
-**공급사슬 재고관리모형 개발**<br>창원대학교 경영학과
+**공급사슬 재고관리모형 개발**<br>창원대학교
 
 1. **기간** - 2018년 9월 1일부터 2019년 12월 31일까지
-1. **목적** - 공급사슬단계에 존재하는 재고관리, 일정계획, 물류 등을 연구하고 모형을 개발
+1. **목적** - 물류 및 재고관리, 일정계획 등을 분석하고 수학적 모형 개발
 1. **사용 기술**
-    * RAND, Mathematical modeling, Metaheuristics
+    * EXCEL, Python, Heuristic, Metaheuristics
 1. **수행 업무**
     * 다품목 일괄구매 및 조달일정계획 모형에 선형 계획법을 적용하여 모형을 개발하고 최적해 탐색 가능성과 기존 알고리즘과의 비교 실험
     * 메타휴리스틱스 적용
@@ -124,7 +127,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 1. **기간** - 2018년 10월 1일부터 2019년 1월 31일까지
 2. **목적** - 국내 경영학 분야 저널에 등재된 논문들의 연구 동향 및 특징을 분석
-3. **사용 기술** - 웹 크롤링, 자연어 처리, 기계학습
+3. **사용 기술** - 파이썬, 웹 크롤링, 자연어 처리, 기계학습
 3. **수행 업무**
     * 경영학 분야 KCI 저널의 주제어를 분석하기 위한 전체적인 분석 기획 및 총괄
     * 국내 전자저널을 서비스하는 DBPia에서 논문에 대한 정보를 수집하기 위해 웹 크롤링 개발을 개발
@@ -140,8 +143,9 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 1. **기간** - 2018년 7월 10일부터 9월 14일까지
 1. **목적** - 한국정보화진흥원 주최 2018년도 빅콘테스트의 분석 분야 챔피언 리그인 NC소프트의 게임 유저 이탈 예측 모형 개발
 2. **사용 기술**
-    * Models - Random Forests, XGBoost
-    * Optimizing hyper-parameters using `Genetic Algorithm`
+    * 파이썬
+    * 모형 - Random Forests, XGBoost
+    * 하이퍼 파라미터 최적화 - Genetic Algorithm
 3. **수행 업무**
     * 탐색적 자료 분석 및 모형 구축에 대한 기획 및 총괄
     * 하이퍼 파라미터 최적화를 위한 유전 알고리즘 개발
@@ -153,30 +157,32 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 1. **기간** - 2017년 11월 1일부터 2018년 2월 28일까지
-1. **목적** - 생산 업무 프로세스 분석 및 생산 일정계획
-1. **사용 기술**
+2. **목적** - 생산 업무 프로세스 분석 및 생산 일정계획
+3. **사용 기술**
     * EXCEL, Visual Basic Application
-1. **수행 업무**
-    * 
-3. **성과** 
+4. **수행 업무**
+    * 생산계획 분석 및 ERP 기초 데이터 신뢰성 분석
+    * 생산팀 업무 분석 및 업무 자동화
+    * 생산 일정계획 자동 생성 시스템 개발
 
 ---
 
 **HACCP 선행요건 수행도 평가에 관한 연구 설문지 분석**<br>
 
 1. **기간** - 2017년 10월 1일부터 2017년 10월 31일까지
-1. **목적** - 
-2. **사용 기술**
-3. **수행 업무**
-3. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance_performance_analysis.ipynb</b></a>
-3. **성과** - 대한설비관리학회지 등재
-4. <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>Paper</b></a>
+2. **목적** - 중소규모 식품제조업체 HACCP 선행요건 분석
+3. **사용 기술**
+    * EXCEL, R 프로그래밍, 파이썬
+    * 통계 검정, 중요도-수행도 분석
+4. **수행 업무**
+5. <a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance_performance_analysis.ipynb" target="_blank"><b>importance_performance_analysis.ipynb</b></a>
+6. **성과** - <a href="http://www.papersearch.net/thesis/article.asp?key=3568990" target="_blank"><b>논문</b></a>
 
 ---
 
 ## Activity
 
-**캐글 코리아 창원 지역 스터디 그룹 운영**<br>주최: 캐클 코리아 <br>1차<br>2차 현재 진행 중
+**캐글 코리아 창원 지역 스터디 그룹 운영**<br>주최: 캐클 코리아<br>1차 - 종료<br>2차 - 현재 진행 중
 
 **2018 빅데이터 해커톤**<br>주최: 우정사업본부 및 빅데이터연구원<br>기간: 2018년 12월 20일부터 12월 21일까지<br>장소: 가포디지털혁신파크 새롬관 4층<br>내용: 우체국 택배 배송정보 분석을 통한 예측 및 아이디어 제시 분야
 
